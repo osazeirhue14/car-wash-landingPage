@@ -1,0 +1,227 @@
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#text-intro{
+    margin-top: 75px;
+    font-size: 20px;
+}
+body{
+    background-color: #746f8f;
+    color:white;
+    
+}
+#logo{
+    position: absolute;
+    height: 140px;
+    width: 140px;
+    border-radius: 50px;
+    top:25px;
+    left:25px;
+}
+#homepage{
+    position: absolute;
+    height: 270px;
+    width: 270px;
+    border-radius: 50px;
+    top:170px;
+    left:655px;
+
+}
+#opening{
+    position: absolute;
+    height: 270px;
+    width: 290px;
+    border-radius: 50px;
+    top:170px;
+    left:1100px;
+}
+
+.navbar {
+    overflow: hidden;
+    color:white;
+    background-color: #746f8f;
+    
+    top: 50px; 
+    width: 100%; /* Full width */
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 75px;
+  }
+.navbar a{
+
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    padding:14px 15px;
+    display:inline-block;
+    text-align: center;
+}
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  .main {
+    margin-top: 50px; /* Add a top margin to avoid content overlay */
+  }
+  button{
+    background-color: #746f8f;
+    color:white;
+    border-color: #ddd;
+    font-size: 20px;
+    font-weight: bold;
+    height: 75px;
+    width:200px;
+    border-radius: 30px;   
+  }
+  #intro{
+    margin-top: 35px;;
+    margin-right: 50%;
+    font-size: 35px;
+  }
+  #insta{
+    height: 75px;
+    width:75px;
+    border-radius: 30px;
+  }
+  #twitter{
+    height: 75px;
+    width:75px;
+    border-radius: 30px;
+  }
+  #facebook{
+    height: 75px;
+    width:75px;
+    border-radius: 30px;
+  }
+  ul{
+    list-style: none;
+    text-align: center;
+  }
+  .pickup {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), /* Add a fade */
+    url(pickup.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px; /* Adjust the height */
+    padding-top: 10px; /* Push the content down from the top */
+    color: white; /* Ensure text is visible */
+    text-align: center;
+}
+#s6{
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 5px;
+    text-align: center; 
+}
+#s6{
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 5px;
+    text-align: center; 
+}
+.container {
+    display: flex; /* Enables Flexbox */
+    justify-content: space-around; /* Adds spacing between the divs */
+}
+.box {
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 5px;
+    text-align: center; 
+    width: 350px; 
+    height: 280px; 
+}
+.box2 {
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 5px;
+    text-align: center; 
+    width: 350px; 
+    height: 370px; 
+}
+.box3 {
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 5px;
+    text-align: center; 
+    width: 350px; 
+    height: 410px; 
+}
+.box4 {
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #ddd;
+    border-width: 5px;
+    text-align: center; 
+    width: 350px; 
+    height: 460px; 
+}
+#book-now{
+    justify-content: center;
+    background-color: #746f8f;
+    color:white;
+    border-color: #ddd;
+    font-size: 20px;
+    font-weight: bold;
+    height: 80px;
+    width:150px;
+    border-radius: 20px;   
+} 
+#spray-wash{
+    float:right;
+    margin-left:20px;
+    margin-right:90px;
+    left:900px;
+    width: 270px;
+    height:270px;
+    border-radius: 25px;
+    padding-left: 15px;
+}
+#explain{
+    margin-left:100px;
+   
+    margin-bottom: 20px;
+}
+#location{
+    margin-top: 25px;
+top:1200px;
+left:200px;
+margin-bottom: 20px;
+
+}
+#map{
+    float:right;
+    position: absolute;
+    margin-left:45px;
+    margin-top:-40px;
+    left:950px;
+    width: 200px;
+    height:200px;
+    border-radius: 20px;
+    padding-left: 15px;
+}
+#faq{
+    float:left;
+    margin-left:120px;
+    margin-top:-190px;
+    border: 1px solid;
+    border-color: #ddd;
+    border-radius: 35px ;
+    border-width: 5px;
+    text-align: center; 
+    width: 350px; 
+    height: 150px; 
+    margin-bottom: 20px;
+}
