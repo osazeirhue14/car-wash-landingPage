@@ -1,0 +1,1 @@
+A custom-designed HTML mockup for a car cleaning service website, which I independently conceptualized and developed. This project focuses on presenting a clean, modern layout to showcase services, pricing, and customer engagement features, serving as an initial prototype for a potential client-facing application.
